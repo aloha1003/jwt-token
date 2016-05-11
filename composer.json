@@ -1,15 +1,15 @@
 {
-    "name": "tymon/jwt-auth",
+    "name": "aloha1003/jwt-auth",
     "description": "JSON Web Token Authentication for Laravel 4 and 5",
     "keywords": [
         "jwt",
         "auth",
         "authentication",
-        "tymon",
+        "aloha1003",
         "laravel",
         "json web token"
     ],
-    "homepage": "https://github.com/tymondesigns/jwt-auth",
+    "homepage": "https://github.com/aloha1003/jwt-auth",
     "license": "MIT",
     "authors": [
         {
@@ -35,17 +35,17 @@
     },
     "autoload": {
         "psr-4": {
-            "Tymon\\JWTAuth\\": "src"
+            "aloha1003\\JWTAuth\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Tymon\\JWTAuth\\Test\\": "tests"
+            "aloha1003\\JWTAuth\\Test\\": "tests"
         }
     },
     "extra": {
         "branch-alias": {
-            "dev-develop": "0.5-dev"
+            "dev-develop": "1.0"
         }
     }
 }
